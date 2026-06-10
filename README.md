@@ -1,4 +1,4 @@
-## Hi there 👋
+## Learning, Exploring and trying to be better everyday. 
 
 <!--
 **raaf-11/raaf-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
